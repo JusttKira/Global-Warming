@@ -1,6 +1,6 @@
 # Global-Warming
-This motion graphics video takes viewers on a simple journey to understand what is the meaning of Global Warming
-In this photo you will see: 
+<h1>This motion graphics video takes viewers on a simple journey to understand what is the meaning of Global Warming
+In this photo you will see: </h1>
 
 1- Team members
 
