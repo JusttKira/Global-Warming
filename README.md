@@ -15,7 +15,7 @@
 
 <h3>6- Project Link</h3> https://drive.google.com/drive/folders/1sh0MSqAyLbeBLDG7o1DAm230dvSZ3rLB?usp=drive_link
 
-![Brief](https://github.com/user-attachments/assets/8ec905e3-8715-4c00-b506-dd7d65f3816a)
+![Brief-updated](https://github.com/user-attachments/assets/0cc4df3c-0935-44ae-b43b-bdf3ce0962ca)
 
 <h1>Updates</h1>
 <h3>1- We finalized the project’s style as a narrative essay, focusing on explaining what global warming is, how it occurred, and the measures that can be taken to prevent it.</h3>
