@@ -22,6 +22,7 @@
 <h3>2- We have drafted the script and are currently developing the storyboard, with the scenes already outlined and planned.</h3>
 <h3>3- Once we finish the storyboard we will upload it alongside the script</h3>
 <h3>4- We finished the script, the storyboard, the voice over, and started the animation process</h3> 
+<h3>5- We finished the animation and added the sound effects</h3>
 <h1>7- Project Script</h1>
 <h3>من ملايين السنين، الأرض كانت مختلفة تمام. الديناصورات كانت موجودة، والغابات منتشرة، والحياة كانت ماشية في توازن. بس في يوم، نيزك اصطدم بالكوكب، وأنهى عصر الديناصورات.عدى الزمن، وظهر الإنسان، وفي يوم، راجل قاعد في كهفه خبط حجرين في بعض، وفجأة طلع شرارة. الشرارة دي غيرت كل شئ. منها بدأت النار، ومن النار بدأ التقدم. لكن التقدم كان ليه تمن. عدد المصانع زاد، الغابات بدأت تختفي، وحيوانات كتير بقت مهددة بالانقراض. فهل دي النهاية؟ ولا لسه في أمل؟ معظم مصادر الطاقة بتكون من الفحم، البترول، والغاز. وبالتالي، تقليل الاستهلاك هيساعد كتير. ولو مش مضطر تستخدم العربية، اركب عجلة أو امشي  الأرض بيتنا. ومسؤوليتنا نحافظ عليها. 
 
